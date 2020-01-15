@@ -1,0 +1,18 @@
+#certTitle {
+    font-size: 1.4em;
+    color: #777;
+}
+
+#certTitle span {
+    color: #0C4DA2;
+}
+
+.cert {
+    display: inline-block;
+    width: calc((100% - 20px) / 3);
+}
+
+.cert img {
+    max-width: 100%;
+}
+
